@@ -1,2 +1,0 @@
-add d
-test amend
